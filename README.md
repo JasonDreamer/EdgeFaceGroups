@@ -26,3 +26,7 @@ The **Edge Groups** and **Face Groups** panels appear in **Properties > Data** f
   - **Select / Deselect** changes the selection of elements whose value is above 0.
 
 New groups are named `edge_group` and `face_group` by default. The prefixes can be changed in the add-on preferences.
+
+## License
+
+GPL-3.0-or-later. See [LICENSE](LICENSE).
